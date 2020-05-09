@@ -1,5 +1,3 @@
-// +build install
-
 /*
 Copyright 2020 Google LLC.
 
@@ -18,4 +16,4 @@ limitations under the License.
 
 // Package install is a placeholder that allows us to pull in config files
 // via go mod vendor.
-package install
+package config
